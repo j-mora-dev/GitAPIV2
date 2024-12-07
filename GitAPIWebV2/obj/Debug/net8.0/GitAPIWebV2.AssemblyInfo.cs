@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitAPIWebV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa68e557ed9d1bbe88334c08fb91ce11d811985")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitAPIWebV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitAPIWebV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
